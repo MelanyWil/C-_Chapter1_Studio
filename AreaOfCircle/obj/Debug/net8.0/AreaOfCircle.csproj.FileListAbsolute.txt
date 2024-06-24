@@ -1,0 +1,14 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/refint/AreaOfCircle.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter1/Studio/AreaOfCircle/obj/Debug/net8.0/ref/AreaOfCircle.dll
